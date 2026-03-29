@@ -27,7 +27,6 @@ Como a AgroLogística Brasil pode:
 
 ---
 
-
 ## 📂 Estrutura do Projeto
 ```
 Projeto_AgroLogistica_BR
